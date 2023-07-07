@@ -8,8 +8,8 @@ const dbPostgresConfig = {
   host: 'localhost',
   port: 5432,
   database: 'waterquality',
-  user: 'matsibora',
-  password: 'sdvtrv56cg56hx5',
+  user: 'dbuser',
+  password: 'dbpass',
   max: 30, // use up to 30 connections
 }
 
